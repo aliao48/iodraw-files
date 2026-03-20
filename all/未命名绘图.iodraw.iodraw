@@ -13,13 +13,8 @@
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-3" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;推理阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sCnrXvq3HWmaGKLrDtxO-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-4" value="&lt;span style=&quot;color: rgb(39, 74, 99); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;学生模型构建缺失模态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCnrXvq3HWmaGKLrDtxO-5" target="sCnrXvq3HWmaGKLrDtxO-2">
           <mxGeometry relative="1" as="geometry" />
