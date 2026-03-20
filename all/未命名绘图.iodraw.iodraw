@@ -4,16 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sCnrXvq3HWmaGKLrDtxO-2" target="sCnrXvq3HWmaGKLrDtxO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-2" value="&lt;span style=&quot;color: rgb(39, 74, 99); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;教师模型训练完整模态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-3" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;推理阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sCnrXvq3HWmaGKLrDtxO-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="430" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sCnrXvq3HWmaGKLrDtxO-4">
           <mxGeometry relative="1" as="geometry">
