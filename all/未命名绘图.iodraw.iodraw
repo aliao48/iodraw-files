@@ -39,7 +39,7 @@
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-13" value="&lt;span style=&quot;color: rgb(39, 74, 99); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;联合训练与收敛&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-14" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;注意力重标定+前景信号增强&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
