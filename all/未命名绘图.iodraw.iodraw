@@ -19,8 +19,11 @@
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-6" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;知识蒸馏阶段&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-9" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="460" width="80" height="40" as="geometry" />
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-9" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;概率蒸馏&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;（输出层软标签）&lt;/div&gt;" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-10" value="" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="530" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
