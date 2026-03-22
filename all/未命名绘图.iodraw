@@ -10,7 +10,7 @@
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sCnrXvq3HWmaGKLrDtxO-2" target="sCnrXvq3HWmaGKLrDtxO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-2" value="&lt;span style=&quot;color: rgb(39, 74, 99); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;教师模型训练完整模态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-2" value="&lt;span style=&quot;color: rgb(39, 74, 99); font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;教师模型训练完整模态&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="404" y="415" width="156" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-3" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;推理阶段&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -46,10 +46,10 @@
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sCnrXvq3HWmaGKLrDtxO-6" target="sCnrXvq3HWmaGKLrDtxO-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-6" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;知识蒸馏阶段&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-6" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;知识蒸馏阶段&lt;/font&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="270" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-9" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;概率蒸馏&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;（输出层软标签）&lt;/div&gt;" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-9" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;概率蒸馏&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50);&quot;&gt;&lt;font face=&quot;QNE96zGlr2HWGRPsxTRY&quot;&gt;（输出层软标签）&lt;/font&gt;&lt;/div&gt;" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#000000;" parent="1" source="sCnrXvq3HWmaGKLrDtxO-10" target="sCnrXvq3HWmaGKLrDtxO-13" edge="1">
@@ -60,13 +60,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-10" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;特征蒸馏&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;（中间层语义对齐）&lt;/div&gt;" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-10" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;特征蒸馏&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50);&quot;&gt;&lt;font face=&quot;wGpRhbYEx_siaYvP7vO1&quot;&gt;（中间层语义对齐）&lt;/font&gt;&lt;/div&gt;" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="440" y="545" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="sCnrXvq3HWmaGKLrDtxO-13" target="sCnrXvq3HWmaGKLrDtxO-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCnrXvq3HWmaGKLrDtxO-13" value="&lt;span style=&quot;color: rgb(39, 74, 99); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;联合训练与收敛&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="sCnrXvq3HWmaGKLrDtxO-13" value="&lt;span style=&quot;color: rgb(39, 74, 99); font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;联合训练与收敛&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="580" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="sCnrXvq3HWmaGKLrDtxO-14" value="&lt;span style=&quot;font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 14px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;注意力重标定+前景信号增强&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
